@@ -1,0 +1,39 @@
+
+/* Font Family 
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+*/
+.caracteristicas{
+    font-family: 'Montserrat', sans-serif;
+   color: #828282;
+   font-weight: 500px;
+   font-size: 14px;
+   font-family: 'Montserrat',sans-serif;
+   color:  #828282;
+   ;
+}
+
+.super-host {
+    font-weight: 700px;
+    font-size: 12px;
+    font-family: 'Montserrat',sans-serif;
+    color: #4F4F4F;
+     
+}
+.numeros{
+    font-weight: 500px;
+    font-size: 14px;
+    font-family: 'Montserrat',sans-serif;
+    color: #4F4F4F;
+}
+
+.estilo{
+    font-weight: 600px;
+    font-size: 16px;
+    font-family: 'Montserrat',sans-serif;
+    
+}
+
+.estrella {
+   color: #EB5757;
+}
